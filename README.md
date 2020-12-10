@@ -7,7 +7,7 @@
 
 优化函数:
 
-![image-20201129203233310](E:\PyCharm 2020.1.2\workspaces\GeneticAlgorithm\README.assets\image-20201129203233310.png)
+![image-20201129203233310](.\README.assets\image-20201129203233310.png)
 
 - 其中*x*1,*x*2 ∈[ 0,6 ]，*j*=2
 
